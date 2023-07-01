@@ -33,6 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizaakomal&show_icons=true&locale=en" alt="hafizaakomal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafizaakomal&" alt="hafizaakomal" /></p>
+[![](https://visitcount.itsvg.in/api?id=HafizaaKomal&label=Profile%20Views&color=4&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 <!--
 **HafizaaKomal/HafizaaKomal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
